@@ -120,174 +120,6 @@
                     involved in meaningful ways, we can Grow Our Party and
                     better our state.</p>
                 </div>
-                <!-- LAYER NR. 3 -->
-                <div class="tp-caption" data-x="['center','center','center','center']"
-
-                  data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
-
-                  data-voffset="['52','52','125','80']" data-transform_idle="o:1;"
-
-                  data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
-
-                  data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-
-                  data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;"
-
-                  data-start="3000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                  <a href="contact-us.html" class="project-button hvr-bounce-to-right">See
-                    Our Projects</a> </div>
-              </li>
-              <!-- SLIDE2  -->
-              <li data-index="rs-20" data-transition="fade" data-slotamount="default"
-
-                data-easein="default" data-easeout="default" data-masterspeed="default"
-
-                data-thumb="video/drinkwinecover.jpg" data-rotate="0" data-saveperformance="off"
-
-                data-title="Title Goes Here" data-description="">
-                <!-- MAIN IMAGE --> <img src="video/drinkwinecover.jpg" alt="image"
-
-                  class="rev-slidebg" data-bgparallax="3" data-bgposition="center center"
-
-                  data-duration="20000" data-ease="Linear.easeNone" data-kenburns="on"
-
-                  data-no-retina="" data-offsetend="0 0" data-offsetstart="0 0"
-
-                  data-rotateend="0" data-rotatestart="0" data-scaleend="100" data-scalestart="140">
-                <!-- LAYERS -->
-                <!-- BACKGROUND VIDEO LAYER -->
-                <div class="rs-background-video-layer" data-forcerewind="on" data-volume="mute"
-
-                  data-videowidth="100%" data-videoheight="100%" data-videomp4="video/Drink-Wine.mp4"
-
-                  data-videopreload="preload" data-videoloop="loopandnoslidestop"
-
-                  data-forcecover="1" data-aspectratio="16:9" data-autoplay="true"
-
-                  data-autoplayonlyfirsttime="false" data-nextslideatend="true"></div>
-                <!-- LAYER NR. 1 -->
-                <div class="tp-caption" data-x="['center','center','center','center']"
-
-                  data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
-
-                  data-voffset="['-58','-33','-33','-100']" data-width="none" data-height="none"
-
-                  data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
-
-                  data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-
-                  data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;"
-
-                  data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-
-                  style="z-index: 6; white-space: nowrap;">
-                  <h1>HELLO WE'RE BizPro</h1>
-                </div>
-                <!-- LAYER NR. 2 -->
-                <div class="tp-caption" data-x="['center','center','center','center']"
-
-                  data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
-
-                  data-voffset="['-05','93','93','20']" data-width="none" data-height="none"
-
-                  data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
-
-                  data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-
-                  data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;"
-
-                  data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-
-                  style="z-index: 6; white-space: nowrap;">
-                  <h6>Sub Head, Motto or Mission subtitle</h6>
-                </div>
-                <!-- LAYER NR. 3 -->
-                <div class="tp-caption" data-x="['center','center','center','center']"
-
-                  data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
-
-                  data-voffset="['52','185','185','105']" data-transform_idle="o:1;"
-
-                  data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
-
-                  data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-
-                  data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;"
-
-                  data-start="3000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                  <a href="contact-us.html" class="project-button hvr-bounce-to-right">See
-                    Our Projects</a> </div>
-              </li>
-              <!-- SLIDE3  -->
-              <li data-index="rs-18" data-transition="fade" data-slotamount="default"
-
-                data-easein="default" data-easeout="default" data-masterspeed="default"
-
-                data-thumb="images/home/slide-2.jpg" data-rotate="0" data-saveperformance="off"
-
-                data-title="Title Goes Here" data-description="">
-                <!-- MAIN IMAGE --> <img src="images/home/slide-2.jpg" alt="image"
-
-                  class="rev-slidebg" data-bgparallax="3" data-bgposition="center center"
-
-                  data-duration="20000" data-ease="Linear.easeNone" data-kenburns="on"
-
-                  data-no-retina="" data-offsetend="0 0" data-offsetstart="0 0"
-
-                  data-rotateend="0" data-rotatestart="0" data-scaleend="100" data-scalestart="140">
-                <!-- LAYERS -->
-                <!-- LAYER NR. 1 -->
-                <div class="tp-caption" data-x="['center','center','center','center']"
-
-                  data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
-
-                  data-voffset="['-58','-33','-33','-100']" data-width="none" data-height="none"
-
-                  data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
-
-                  data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-
-                  data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;"
-
-                  data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-
-                  style="z-index: 6; white-space: nowrap;">
-                  <h1>HELLO WE'RE BizPro</h1>
-                </div>
-                <!-- LAYER NR. 2 -->
-                <div class="tp-caption" data-x="['center','center','center','center']"
-
-                  data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
-
-                  data-voffset="['-05','93','93','20']" data-width="none" data-height="none"
-
-                  data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
-
-                  data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-
-                  data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;"
-
-                  data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-
-                  style="z-index: 6; white-space: nowrap;">
-                  <h6>Sub Head, Motto or Mission subtitle</h6>
-                </div>
-                <!-- LAYER NR. 3 -->
-                <div class="tp-caption" data-x="['center','center','center','center']"
-
-                  data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
-
-                  data-voffset="['52','185','185','105']" data-transform_idle="o:1;"
-
-                  data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
-
-                  data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-
-                  data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;"
-
-                  data-start="3000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                  <a href="contact-us.html" class="project-button hvr-bounce-to-right">See
-                    Our Projects</a> </div>
               </li>
             </ul>
           </div>
@@ -307,16 +139,19 @@
               to attend a variety of schools- Christian, public, Spanish
               immersion, and early college. I feel that the different
               environments have given me a unique perspective on many aspects of
-              life. <br><br>
+              life. <br>
+              <br>
               I currently attend Oakland Early College where I take both high
               school and college classes, and am on track to earn an Associate’s
               Degree upon graduation. I plan to stay in Michigan for my
               four-year major in Political Science, with a minor in
-              Business/Marketing/Economics. <br><br>
+              Business/Marketing/Economics. <br>
+              <br>
               In the past year I’ve been honored to be a part of Student
               Statesmanship Institute, Michigan Excellence in Public Service
               Series, the Schuette for Governor campaign, and the Michigan
-              Republican Party’s Election Day Operations program. <br><br>
+              Republican Party’s Election Day Operations program. <br>
+              <br>
               I’m passionate about helping others and being a part of the change
               that I want to see in the world, which is why I’ve gone on
               multiple international mission trips, volunteered with children
@@ -471,26 +306,21 @@
         <!-- /.container --> </div>
       <!-- /#service-section -->
       <!--
-			=====================================================				Project Section			=====================================================			-->
+			=====================================================				Endorsement Section			=====================================================			-->
       <div id="project-section">
         <div class="container">
           <div class="theme-title">
-            <h2>OUR AWESOME PROJECTS</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type.</p>
+            <h2>ENDORSEMENTS</h2>
+            <p>I'm proud and humbled to have the support and endorsement of grassroots Republicans across our great state.</p>
           </div>
           <!-- /.theme-title -->
           <div class="project-menu">
             <ul>
               <li class="filter active tran3s" data-filter="all">All</li>
-              <li class="filter tran3s" data-filter=".web">Web Design</li>
-              <li class="filter tran3s" data-filter=".photo">Photography</li>
-              <li class="filter tran3s" data-filter=".webd">Web Development</li>
-              <li class="filter tran3s" data-filter=".om">Online Marketing</li>
-              <li class="filter tran3s" data-filter=".dmedia">Digital Media</li>
-              <li class="filter tran3s" data-filter=".support">Support</li>
+              <li class="filter tran3s" data-filter=".web">Elected Officials</li>
+              <li class="filter tran3s" data-filter=".photo">Party Leadership</li>
+              <li class="filter tran3s" data-filter=".webd">Grassroots Activists</li>
+         
             </ul>
           </div>
           <div class="project-gallery clear-fix">
@@ -1172,6 +1002,7 @@ name="message"></textarea> <button class="tran3s p-color-bg">Send Message</butto
           </footer>
           <!-- =============================================
 				Loading Transition			============================================== -->
+          
           <div id="loader-wrapper">
             <div id="preloader_1"> <span></span> <span></span> <span></span>
               <span></span> <span></span> </div>
@@ -1213,6 +1044,5 @@ type="text/javascript"></script>
           <script type="text/javascript" src="js/map-script.js"></script> </div>
         <!-- /.main-page-wrapper --> </div>
     </div>
-    
   </body>
 </html>
