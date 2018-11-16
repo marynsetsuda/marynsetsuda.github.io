@@ -96,7 +96,7 @@
                   data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
 
                   style="z-index: 6; white-space: nowrap;">
-                  <h1>HELLO WE'RE BizPro</h1>
+                  <h1>HI, I'M MARYN</h1>
                 </div>
                 <!-- LAYER NR. 2 -->
                 <div class="tp-caption" data-x="['center','center','center','center']"
@@ -114,7 +114,7 @@
                   data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
 
                   style="z-index: 6; white-space: nowrap;">
-                  <h6>Sub Head, Motto or Mission subtitle</h6>
+                  <h6>I’m running because I’ve seen how powerful and passionate the Republican youth can be when they are engaged. I believe if we provide the opportunity for them to be involved in meaningful ways, we can Grow Our Party.</h6>
                 </div>
                 <!-- LAYER NR. 3 -->
                 <div class="tp-caption" data-x="['center','center','center','center']"
@@ -1037,15 +1037,8 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
               <div class="left-side">
                 <h2>Contact Info</h2>
-                <p>There are many variations of passages of Lorem Ipsum
-                  available, but the majori have suffered alteration in some
-                  form, by injected humour, or randomised words which don't look
-                  even slightly believable. If you are going to use a pas of
-                  Lorem Ipsum, you need to be sure there isn't anything
-                  embarrassing hidden in the middle of text. <br>
-                  <br>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor ididunt ut labore et dolore magna aliqua.</p>
+                <p> I want to hear from you! Please feel free to reach out
+                  through the methods listed below!</p>
                 <ul>
                   <li>
                     <div class="icon tran3s round-border p-color-bg"><i class="fa fa-map-marker"
@@ -1071,137 +1064,133 @@
                 </ul>
               </div>
               <!-- /.left-side --> </div>
-            <!-- /.col- -->
+            <!-- /.col- --> <br>
+            <br>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-              <div class="map-area">
-                <h2>Our Location</h2>
-                <div id="map"></div>
-              </div>
-              <!-- /.map-area --> </div>
-            <!-- /.col- --> </div>
-          <!-- /.contact-address-content -->
-          <!-- Contact Form -->
-          <div class="send-message">
-            <h2>Send Message</h2>
-            <form action="inc/sendemail.php" class="form-validation" autocomplete="off"
+              <div class="send-message">
+                <h2>Send Message</h2>
+                <form action="inc/sendemail.php" class="form-validation" autocomplete="off"
 
-              method="post">
-              <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                  <div class="single-input"> <input placeholder="First Name*" name="Fname"
+                  method="post">
+                  <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                      <div class="single-input"> <input placeholder="First Name*"
+
+                          name="Fname" type="text"> </div>
+                      <!-- /.single-input --> </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                      <div class="single-input"> <input placeholder="Last Name*"
+
+                          name="Lname" type="text"> </div>
+                      <!-- /.single-input --> </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                      <div class="single-input"> <input placeholder="Your Email*"
+
+                          name="email" type="email"> </div>
+                      <!-- /.single-input --> </div>
+                  </div>
+                  <!-- /.row -->
+                  <div class="single-input"> <input placeholder="Subject" name="sub"
 
                       type="text"> </div>
-                  <!-- /.single-input --> </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                  <div class="single-input"> <input placeholder="Last Name*" name="Lname"
+                  <!-- /.single-input --> <textarea placeholder="Write Message"
 
-                      type="text"> </div>
-                  <!-- /.single-input --> </div>
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                  <div class="single-input"> <input placeholder="Your Email*" name="email"
+name="message"></textarea> <button class="tran3s p-color-bg">Send Message</button>
+                </form>
+                <!-- Contact Form Validation Markup -->
+                <!-- Contact alert -->
+                <div class="alert-wrapper" id="alert-success">
+                  <div id="success"> <button class="closeAlert"><i class="fa fa-times"
 
-                      type="email"> </div>
-                  <!-- /.single-input --> </div>
-              </div>
-              <!-- /.row -->
-              <div class="single-input"> <input placeholder="Subject" name="sub"
-
-                  type="text"> </div>
-              <!-- /.single-input --> <textarea placeholder="Write Message" name="message"></textarea>
-              <button class="tran3s p-color-bg">Send Message</button> </form>
-            <!-- Contact Form Validation Markup -->
-            <!-- Contact alert -->
-            <div class="alert-wrapper" id="alert-success">
-              <div id="success"> <button class="closeAlert"><i class="fa fa-times"
-
-                    aria-hidden="true"></i></button>
-                <div class="wrapper">
-                  <p>Your message was sent successfully.</p>
+                        aria-hidden="true"></i></button>
+                    <div class="wrapper">
+                      <p>Your message was sent successfully.</p>
+                    </div>
+                  </div>
                 </div>
-              </div>
-            </div>
-            <!-- End of .alert_wrapper -->
-            <div class="alert-wrapper" id="alert-error">
-              <div id="error"> <button class="closeAlert"><i class="fa fa-times"
+                <!-- End of .alert_wrapper -->
+                <div class="alert-wrapper" id="alert-error">
+                  <div id="error"> <button class="closeAlert"><i class="fa fa-times"
 
-                    aria-hidden="true"></i></button>
-                <div class="wrapper">
-                  <p>Sorry!Something Went Wrong.</p>
+                        aria-hidden="true"></i></button>
+                    <div class="wrapper">
+                      <p>Sorry!Something Went Wrong.</p>
+                    </div>
+                  </div>
                 </div>
-              </div>
-            </div>
-            <!-- End of .alert_wrapper --> </div>
-          <!-- /.send-message --> </div>
-        <!-- /.container --> </div>
-      <!-- /#contact-section -->
-      <!--
+                <!-- End of .alert_wrapper --> </div>
+              <!-- /.send-message --> </div>
+            <!-- /.container --> </div>
+          <!-- /#contact-section -->
+          <!--
 			=====================================================				Footer			=====================================================			-->
-      <footer>
-        <div class="container"> <a href="index.html" class="logo"><img src="images/logo/logo.png"
+          <footer>
+            <div class="container"> <a href="index.html" class="logo"><img src="images/logo/logo.png"
 
-              alt="Logo"></a>
-          <ul>
-            <li><a href="#" class="tran3s round-border"><i class="fa fa-facebook"
+                  alt="Logo"></a>
+              <ul>
+                <li><a href="#" class="tran3s round-border"><i class="fa fa-facebook"
 
-                  aria-hidden="true"></i></a><br>
-            </li>
-            <li><a href="#" class="tran3s round-border"><i class="fa fa-twitter"
+                      aria-hidden="true"></i></a><br>
+                </li>
+                <li><a href="#" class="tran3s round-border"><i class="fa fa-twitter"
 
-                  aria-hidden="true"></i></a><br>
-            </li>
-            <li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin"
+                      aria-hidden="true"></i></a><br>
+                </li>
+                <li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin"
 
-                  aria-hidden="true"></i></a><br>
-            </li>
-          </ul>
-          <p> Paid for by Elect Maryn Setsuda, Youth Vice Chair. </p>
-          <p>Copyright 2018 | All rights reserved | Template by <a href="https://colorlib.com"
+                      aria-hidden="true"></i></a><br>
+                </li>
+              </ul>
+              <p> Paid for by Elect Maryn Setsuda, Youth Vice Chair. <br>
+                Copyright © 2018 | All rights reserved | Template by <a href="https://colorlib.com"
 
-              target="_blank">Colorlib</a></p>
-        </div>
-      </footer>
-      <!-- =============================================
+                  target="_blank">Colorlib</a></p>
+            </div>
+          </footer>
+          <!-- =============================================
 				Loading Transition			============================================== -->
-      
-      <div id="loader-wrapper">
-        <div id="preloader_1"> <span></span> <span></span> <span></span> <span></span>
-          <span></span> </div>
-      </div>
-      <!-- Scroll Top Button --> <button class="scroll-top tran3s p-color-bg">
-      </button>
-      <!-- Js File_________________________________ -->
-      <!-- j Query -->
-      <script type="text/javascript" src="vendor/jquery.2.2.3.min.js"></script>
-      <!-- Bootstrap JS -->
-      <script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
-      <!-- Vendor js _________ -->
-      <!-- revolution -->
-      <script src="vendor/revolution/jquery.themepunch.tools.min.js"></script>
-      <script src="vendor/revolution/jquery.themepunch.revolution.min.js"></script>
-      <script type="text/javascript" src="vendor/revolution/revolution.extension.slideanims.min.js"></script>
-      <script type="text/javascript" src="vendor/revolution/revolution.extension.layeranimation.min.js"></script>
-      <script type="text/javascript" src="vendor/revolution/revolution.extension.navigation.min.js"></script>
-      <script type="text/javascript" src="vendor/revolution/revolution.extension.kenburn.min.js"></script>
-      <script type="text/javascript" src="vendor/revolution/revolution.extension.actions.min.js"></script>
-      <script type="text/javascript" src="vendor/revolution/revolution.extension.video.min.js"></script>
-      <!-- Google map js -->
-      <script async="" defer="defer" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZ8VrXgGZ3QSC-0XubNhuB2uKKCwqVaD0&callback=goMap"
+          <div id="loader-wrapper">
+            <div id="preloader_1"> <span></span> <span></span> <span></span>
+              <span></span> <span></span> </div>
+          </div>
+          <!-- Scroll Top Button --> <button class="scroll-top tran3s p-color-bg">
+          </button>
+          <!-- Js File_________________________________ -->
+          <!-- j Query -->
+          <script type="text/javascript" src="vendor/jquery.2.2.3.min.js"></script>
+          <!-- Bootstrap JS -->
+          <script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
+          <!-- Vendor js _________ -->
+          <!-- revolution -->
+          <script src="vendor/revolution/jquery.themepunch.tools.min.js"></script>
+          <script src="vendor/revolution/jquery.themepunch.revolution.min.js"></script>
+          <script type="text/javascript" src="vendor/revolution/revolution.extension.slideanims.min.js"></script>
+          <script type="text/javascript" src="vendor/revolution/revolution.extension.layeranimation.min.js"></script>
+          <script type="text/javascript" src="vendor/revolution/revolution.extension.navigation.min.js"></script>
+          <script type="text/javascript" src="vendor/revolution/revolution.extension.kenburn.min.js"></script>
+          <script type="text/javascript" src="vendor/revolution/revolution.extension.actions.min.js"></script>
+          <script type="text/javascript" src="vendor/revolution/revolution.extension.video.min.js"></script>
+          <!-- Google map js -->
+          <script async="" defer="defer" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZ8VrXgGZ3QSC-0XubNhuB2uKKCwqVaD0&callback=goMap"
 
 type="text/javascript"></script>
-      <!-- Gmap Helper -->
-      <script src="vendor/gmaps.min.js"></script>
-      <!-- owl.carousel -->
-      <script type="text/javascript" src="vendor/owl-carousel/owl.carousel.min.js"></script>
-      <!-- mixitUp -->
-      <script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
-      <!-- Progress Bar js -->
-      <script type="text/javascript" src="vendor/skills-master/jquery.skills.js"></script>
-      <!-- Validation -->
-      <script type="text/javascript" src="vendor/contact-form/validate.js"></script>
-      <script type="text/javascript" src="vendor/contact-form/jquery.form.js"></script>
-      <!-- Theme js -->
-      <script type="text/javascript" src="js/theme.js"></script>
-      <script type="text/javascript" src="js/map-script.js"></script> </div>
-    <!-- /.main-page-wrapper -->
+          <!-- Gmap Helper -->
+          <script src="vendor/gmaps.min.js"></script>
+          <!-- owl.carousel -->
+          <script type="text/javascript" src="vendor/owl-carousel/owl.carousel.min.js"></script>
+          <!-- mixitUp -->
+          <script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
+          <!-- Progress Bar js -->
+          <script type="text/javascript" src="vendor/skills-master/jquery.skills.js"></script>
+          <!-- Validation -->
+          <script type="text/javascript" src="vendor/contact-form/validate.js"></script>
+          <script type="text/javascript" src="vendor/contact-form/jquery.form.js"></script>
+          <!-- Theme js -->
+          <script type="text/javascript" src="js/theme.js"></script>
+          <script type="text/javascript" src="js/map-script.js"></script> </div>
+        <!-- /.main-page-wrapper --> </div>
+    </div>
+    
   </body>
 </html>
