@@ -186,6 +186,7 @@ animation-delay: .8s;
  h5 {font-size: 22px;}
  h6 {font-size: 18px;}
  p {line-height: 26px;}
+ bp {line-height: 26px; color:#ffffff}
  ul {list-style-type: none;}
  a {text-decoration: none; display: inline-block;}
  a:hover,a:focus,a:visited {text-decoration: none; outline: none;}
