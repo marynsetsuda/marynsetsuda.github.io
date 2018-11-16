@@ -24,7 +24,7 @@
             <div class="col-12">
               <div class="top-header-content d-flex flex-wrap align-items-center justify-content-between">
                 <!-- Top Header Meta -->
-                <div class="top-header-meta d-flex flex-wrap"> 
+              
                   <!-- Social Info -->
                   <div class="top-social-info"> <a href="#"><i class="fa fa-facebook"
 
@@ -65,71 +65,8 @@
                 <div class="classycloseIcon">
                   <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
                 </div>
-                <!-- Nav Start -->
-                <div class="classynav">
-                  <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="#">Pages</a>
-                      <ul class="dropdown">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="sermons.html">Sermons</a></li>
-                        <li><a href="sermons-details.html">Sermons Details</a></li>
-                        <li><a href="events.html">Events</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="single-post.html">Blog Details</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="#">Megamenu</a>
-                      <div class="megamenu">
-                        <ul class="single-mega cn-col-4">
-                          <li><a href="index.html">Home</a></li>
-                          <li><a href="about.html">About</a></li>
-                          <li><a href="sermons.html">Sermons</a></li>
-                          <li><a href="sermons-details.html">Sermons Details</a></li>
-                          <li><a href="events.html">Events</a></li>
-                          <li><a href="blog.html">Blog</a></li>
-                          <li><a href="single-post.html">Blog Details</a></li>
-                          <li><a href="contact.html">Contact</a></li>
-                        </ul>
-                        <ul class="single-mega cn-col-4">
-                          <li><a href="index.html">Home</a></li>
-                          <li><a href="about.html">About</a></li>
-                          <li><a href="sermons.html">Sermons</a></li>
-                          <li><a href="sermons-details.html">Sermons Details</a></li>
-                          <li><a href="events.html">Events</a></li>
-                          <li><a href="blog.html">Blog</a></li>
-                          <li><a href="single-post.html">Blog Details</a></li>
-                          <li><a href="contact.html">Contact</a></li>
-                        </ul>
-                        <ul class="single-mega cn-col-4">
-                          <li><a href="index.html">Home</a></li>
-                          <li><a href="about.html">About</a></li>
-                          <li><a href="sermons.html">Sermons</a></li>
-                          <li><a href="sermons-details.html">Sermons Details</a></li>
-                          <li><a href="events.html">Events</a></li>
-                          <li><a href="blog.html">Blog</a></li>
-                          <li><a href="single-post.html">Blog Details</a></li>
-                          <li><a href="contact.html">Contact</a></li>
-                        </ul>
-                        <ul class="single-mega cn-col-4">
-                          <li><a href="index.html">Home</a></li>
-                          <li><a href="about.html">About</a></li>
-                          <li><a href="sermons.html">Sermons</a></li>
-                          <li><a href="sermons-details.html">Sermons Details</a></li>
-                          <li><a href="events.html">Events</a></li>
-                          <li><a href="blog.html">Blog</a></li>
-                          <li><a href="single-post.html">Blog Details</a></li>
-                          <li><a href="contact.html">Contact</a></li>
-                        </ul>
-                      </div>
-                    </li>
-                    <li><a href="events.html">Events</a></li>
-                    <li><a href="sermons.html">Sermons</a></li>
-                    <li><a href="blog.html">Blog</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                  </ul>
+              
+                
             
                   <!-- Donate Button --> <a href="#" class="btn crose-btn header-btn">Donate
                  </a> </div>
@@ -157,7 +94,7 @@
                     the Republican youth can be when they are engaged.<br>
                    I believe with them, we can Grow Our Party and
                     better our state.</p>
-                <a  href="https://docs.google.com/forms/d/e/1FAIpQLSdlcH9-V0mh8DBZ_3Eg7BeQAMm3-Udw9tG5BPu-MWM6oBhQbA/viewform" target=_blank class="btn crose-btn btn-2">Endorse Maryn</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlcH9-V0mh8DBZ_3Eg7BeQAMm3-Udw9tG5BPu-MWM6oBhQbA/viewform" target=_blank class="btn crose-btn btn-2">Endorse Maryn</a>
                 </div>
             </div>
           </div>
@@ -212,9 +149,9 @@
         <div class="row">
           <div class="col-12">
             <div class="call-to-action-content text-center">
-              <h6>ENDORSEMENTS</h6>
-              <h2>Find a place to connect and grow through a small group, class,
-                or regular gathering.</h2>
+              <h2>ENDORSEMENTS</h2>
+              <p>Gerry Hildenbrand, MIGOP Administrative Vice Chair</p>
+              <br>
               <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlcH9-V0mh8DBZ_3Eg7BeQAMm3-Udw9tG5BPu-MWM6oBhQbA/viewform" target=_blank class="btn crose-btn btn-2">Endorse Maryn</a> </div>
           </div>
         </div>
@@ -228,18 +165,21 @@
           <!-- Subscribe Text -->
           <div class="col-12 col-lg-6">
             <div class="subscribe-text">
-              <h3>Subscribe To Our Newsletter</h3>
-              <h6>Subcribe Us And Tell Us About Your Story</h6>
+              <h3>Stay up to date on my campaign</h3>
             </div>
           </div>
           <!-- Subscribe Form -->
           <div class="col-12 col-lg-6">
             <div class="subscribe-form text-right">
-              <form action="#"> <input name="subscribe-email" id="subscribeEmail"
+              <form action="https://marynsetsuda.us19.list-manage.com/subscribe/post?u=9db509505fa23f484c94988c8&amp;id=ea62a90603" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
 
-                  placeholder="Your Email" type="email"> <button type="submit"
-
-                  class="btn crose-btn">subscribe</button> </form>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9db509505fa23f484c94988c8_ea62a90603" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
             </div>
           </div>
         </div>
