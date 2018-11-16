@@ -125,8 +125,7 @@
         </div>
         <!-- END REVOLUTION SLIDER --> </div>
       <!--  /#banner -->
-      <!--
-			=====================================================				About us Section			=====================================================			-->
+      <!--=====================================================				About Section			=====================================================			-->
       <section id="about-us">
         <div class="container">
           <div class="theme-title">
@@ -211,7 +210,7 @@
         <!-- /.container --> </section>
       <!-- /#about-us -->
       <!--
-			=====================================================				Service Section			=====================================================			-->
+			=====================================================				It's Time To Grow Our Party			=====================================================			-->
       <div id="service-section">
         <div class="container">
           <div class="theme-title">
@@ -506,236 +505,7 @@
           <!-- /.project-gallery --> </div>
         <!-- /.container --> </div>
       <!-- /#project-section -->
-      <!--
-			=====================================================				Page middle banner			=====================================================			-->
-      <div class="page-middle-banner">
-        <div class="opacity">
-          <h3>We Create Creative <span class="p-color">&amp;</span> Best Unique
-            Design</h3>
-          <a href="#" class="hvr-bounce-to-right">Let's Work Together</a> </div>
-        <!-- /.opacity --> </div>
-      <!-- /.page-middle-banner -->
-      <!--
-			=====================================================				Team Section			=====================================================			-->
-      <div id="team-section">
-        <div class="container">
-          <div class="theme-title">
-            <h2>Meet our Team</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type.</p>
-          </div>
-          <!-- /.theme-title -->
-          <div class="clear-fix team-member-wrapper">
-            <div class="float-left">
-              <div class="single-team-member">
-                <div class="img"> <img src="images/team/1.jpg" alt="Image">
-                  <div class="opacity tran4s">
-                    <h4>Gonzalez Gina</h4>
-                    <span>Web Developer</span>
-                    <p>On the other hand, We denounce ut with righteo
-                      indignation and dislike men who are so beguiled and
-                      demoralized.</p>
-                  </div>
-                </div>
-                <!-- /.img -->
-                <div class="member-name">
-                  <h6>Gonzalez Gina</h6>
-                  <p>Web Developer</p>
-                  <ul>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-facebook"
 
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-twitter"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-pinterest"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                  </ul>
-                </div>
-                <!-- /.member-name --> </div>
-              <!-- /.single-team-member --> </div>
-            <!-- /float-left -->
-            <div class="float-left">
-              <div class="single-team-member">
-                <div class="img"> <img src="images/team/2.jpg" alt="Image">
-                  <div class="opacity tran4s">
-                    <h4>Holly Vincenzini</h4>
-                    <span>Media Partner</span>
-                    <p>On the other hand, We denounce ut with righteo
-                      indignation and dislike men who are so beguiled and
-                      demoralized.</p>
-                  </div>
-                </div>
-                <!-- /.img -->
-                <div class="member-name">
-                  <h6>Holly Vincenzini</h6>
-                  <p>Media Partner</p>
-                  <ul>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-facebook"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-twitter"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-pinterest"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                  </ul>
-                </div>
-                <!-- /.member-name --> </div>
-              <!-- /.single-team-member --> </div>
-            <!-- /float-left -->
-            <div class="float-left">
-              <div class="single-team-member">
-                <div class="img"> <img src="images/team/3.jpg" alt="Image">
-                  <div class="opacity tran4s">
-                    <h4>Ramirez Minita</h4>
-                    <span>Graphic Design</span>
-                    <p>On the other hand, We denounce ut with righteo
-                      indignation and dislike men who are so beguiled and
-                      demoralized.</p>
-                  </div>
-                </div>
-                <!-- /.img -->
-                <div class="member-name">
-                  <h6>Ramirez Minita</h6>
-                  <p>Graphic Design</p>
-                  <ul>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-facebook"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-twitter"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-pinterest"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                  </ul>
-                </div>
-                <!-- /.member-name --> </div>
-              <!-- /.single-team-member --> </div>
-            <!-- /float-left --> </div>
-          <!-- /.team-member-wrapper --> </div>
-        <!-- /.conatiner --> </div>
-      <!-- /#team-section -->
-      <!--
-			=====================================================				Skill Section			=====================================================			-->
-      <div id="skill-section">
-        <div class="container">
-          <div class="clear-fix">
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-              <div class="img"><img src="images/home/2.jpg" alt="Image"></div>
-            </div>
-            <!-- /.col- -->
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-              <div class="skills-progress skills">
-                <div class="habilidades_contenedor">
-                  <div class="codeconSkills">
-                    <div class="codeconSkillbar">
-                      <div class="skill-text"> <span class="codeconSkillArea">Web
-                          Development</span> </div>
-                      <div class="skillBar" data-percent="89%"> <span class="PercentText">89%</span>
-                      </div>
-                    </div>
-                    <div class="codeconSkillbar">
-                      <div class="skill-text"> <span class="codeconSkillArea ">Online
-                          Marketing</span> </div>
-                      <div class="skillBar" data-percent="58%"> <span class="PercentText">58%</span>
-                      </div>
-                    </div>
-                    <div class="codeconSkillbar">
-                      <div class="skill-text"> <span class="codeconSkillArea">Digital
-                          Media</span> </div>
-                      <div class="skillBar" data-percent="49%"> <span class="PercentText">49%</span>
-                      </div>
-                    </div>
-                    <div class="codeconSkillbar">
-                      <div class="skill-text"> <span class="codeconSkillArea">Photography</span>
-                      </div>
-                      <div class="skillBar" data-percent="76%"> <span class="PercentText">76%</span>
-                      </div>
-                    </div>
-                    <div class="codeconSkillbar">
-                      <div class="skill-text"> <span class="codeconSkillArea">Creative
-                          Design</span> </div>
-                      <div class="skillBar" data-percent="64%"> <span class="PercentText ">64%</span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- /.codeconSkills --> </div>
-                <!-- /.habilidades_contenedor --> </div>
-              <!-- /.skills-progress --> </div>
-          </div>
-          <!-- /.clear-fix --> </div>
-        <!-- /.container --> </div>
-      <!-- /#skill-section -->
-      <!--
-			=====================================================				Our Client			=====================================================			-->
-      <div id="our-client">
-        <div class="container">
-          <div class="theme-title">
-            <h2>OUR HAPPY CLIENTS</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type.</p>
-          </div>
-          <!-- /.theme-title -->
-          <div class="client-slider">
-            <div class="item"> <img src="images/home/c1.jpg" alt="Client">
-              <p>Our successful construction approach is based on aggressive
-                subcontractor administration, employ-ment of competent
-                personnel, accurate schedule control, quality control and cost
-                control. We employ only qualified subcontractors who share our
-                goal in creating quality projects.</p>
-              <h6>- Spryte Loriano -</h6>
-            </div>
-            <!-- /.item -->
-            <div class="item"> <img src="images/home/c2.jpg" alt="Client">
-              <p>Our successful construction approach is based on aggressive
-                subcontractor administration, employ-ment of competent
-                personnel, accurate schedule control, quality control and cost
-                control. We employ only qualified subcontractors who share our
-                goal in creating quality projects.</p>
-              <h6>- Spryte Loriano -</h6>
-            </div>
-            <!-- /.item -->
-            <div class="item"> <img src="images/home/c3.jpg" alt="Client">
-              <p>Our successful construction approach is based on aggressive
-                subcontractor administration, employ-ment of competent
-                personnel, accurate schedule control, quality control and cost
-                control. We employ only qualified subcontractors who share our
-                goal in creating quality projects.</p>
-              <h6>- Spryte Loriano -</h6>
-            </div>
-            <!-- /.item --> </div>
-          <!-- /.client-slider --> </div>
-        <!-- /.container --> </div>
-      <!-- /#our-client -->
       <!--=====================================================				Blog Section			=====================================================			-->
       <div id="blog-section">
         <div class="container">
@@ -838,71 +608,69 @@
                   </li>
                 </ul>
               </div>
-            </div>    </div>
-              </div>
             </div>
-              <!--===================================================== Footer ====================================================-->
-              <footer>
-                <div class="container"> <a href="index.html" class="logo"><img
-
-                      src="images/logo/logo.png" alt="Logo"></a>
-                  <ul>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-facebook"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-twitter"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                    <li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin"
-
-                          aria-hidden="true"></i></a><br>
-                    </li>
-                  </ul>
-                  <p> Paid for by Elect Maryn Setsuda, Youth Vice Chair. <br>
-                    Copyright © 2018 | All rights reserved | Template by <a href="https://colorlib.com"
-
-                      target="_blank">Colorlib</a></p>
-                </div>
-              </footer>
-              <!-- =============================================
-				Loading Transition			============================================== -->
-              <div id="loader-wrapper">
-                <div id="preloader_1"> <span></span> <span></span> <span></span>
-                  <span></span> <span></span> </div>
-              </div>
-              <!-- Scroll Top Button --> <button class="scroll-top tran3s p-color-bg">
-              </button>
-              <!-- Js File_________________________________ -->
-              <!-- j Query -->
-              <script type="text/javascript" src="vendor/jquery.2.2.3.min.js"></script>
-              <!-- Bootstrap JS -->
-              <script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
-              <!-- Vendor js _________ -->
-              <!-- revolution -->
-              <script src="vendor/revolution/jquery.themepunch.tools.min.js"></script>
-              <script src="vendor/revolution/jquery.themepunch.revolution.min.js"></script>
-              <script type="text/javascript" src="vendor/revolution/revolution.extension.slideanims.min.js"></script>
-              <script type="text/javascript" src="vendor/revolution/revolution.extension.layeranimation.min.js"></script>
-              <script type="text/javascript" src="vendor/revolution/revolution.extension.navigation.min.js"></script>
-              <script type="text/javascript" src="vendor/revolution/revolution.extension.kenburn.min.js"></script>
-              <script type="text/javascript" src="vendor/revolution/revolution.extension.actions.min.js"></script>
-              <script type="text/javascript" src="vendor/revolution/revolution.extension.video.min.js"></script>
-              <!-- mixitUp -->
-              <script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
-              <!-- Progress Bar js -->
-              <script type="text/javascript" src="vendor/skills-master/jquery.skills.js"></script>
-              <!-- Validation -->
-              <script type="text/javascript" src="vendor/contact-form/validate.js"></script>
-              <script type="text/javascript" src="vendor/contact-form/jquery.form.js"></script>
-              <!-- Theme js -->
-              <script type="text/javascript" src="js/theme.js"></script>
-              <script type="text/javascript" src="js/map-script.js"></script> </div>
-            <!-- /.main-page-wrapper --> </div>
+          </div>
         </div>
       </div>
-    </div>
+      <!--===================================================== Footer ====================================================-->
+      <footer>
+        <div class="container"> <a href="index.html" class="logo"><img src="images/logo/logo.png"
+
+              alt="Logo"></a>
+          <ul>
+            <li><a href="#" class="tran3s round-border"><i class="fa fa-facebook"
+
+                  aria-hidden="true"></i></a><br>
+            </li>
+            <li><a href="#" class="tran3s round-border"><i class="fa fa-twitter"
+
+                  aria-hidden="true"></i></a><br>
+            </li>
+            <li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin"
+
+                  aria-hidden="true"></i></a><br>
+            </li>
+          </ul>
+          <p> Paid for by Elect Maryn Setsuda, Youth Vice Chair. <br>
+            Copyright © 2018 | All rights reserved | Template by <a href="https://colorlib.com"
+
+              target="_blank">Colorlib</a></p>
+        </div>
+      </footer>
+      <!-- =============================================
+				Loading Transition			============================================== -->
+      <div id="loader-wrapper">
+        <div id="preloader_1"> <span></span> <span></span> <span></span> <span></span>
+          <span></span> </div>
+      </div>
+      <!-- Scroll Top Button --> <button class="scroll-top tran3s p-color-bg">
+      </button>
+      <!-- Js File_________________________________ -->
+      <!-- j Query -->
+      <script type="text/javascript" src="vendor/jquery.2.2.3.min.js"></script>
+      <!-- Bootstrap JS -->
+      <script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
+      <!-- Vendor js _________ -->
+      <!-- revolution -->
+      <script src="vendor/revolution/jquery.themepunch.tools.min.js"></script>
+      <script src="vendor/revolution/jquery.themepunch.revolution.min.js"></script>
+      <script type="text/javascript" src="vendor/revolution/revolution.extension.slideanims.min.js"></script>
+      <script type="text/javascript" src="vendor/revolution/revolution.extension.layeranimation.min.js"></script>
+      <script type="text/javascript" src="vendor/revolution/revolution.extension.navigation.min.js"></script>
+      <script type="text/javascript" src="vendor/revolution/revolution.extension.kenburn.min.js"></script>
+      <script type="text/javascript" src="vendor/revolution/revolution.extension.actions.min.js"></script>
+      <script type="text/javascript" src="vendor/revolution/revolution.extension.video.min.js"></script>
+      <!-- mixitUp -->
+      <script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
+      <!-- Progress Bar js -->
+      <script type="text/javascript" src="vendor/skills-master/jquery.skills.js"></script>
+      <!-- Validation -->
+      <script type="text/javascript" src="vendor/contact-form/validate.js"></script>
+      <script type="text/javascript" src="vendor/contact-form/jquery.form.js"></script>
+      <!-- Theme js -->
+      <script type="text/javascript" src="js/theme.js"></script>
+      <script type="text/javascript" src="js/map-script.js"></script> </div>
+    <!-- /.main-page-wrapper -->
     
   </body>
 </html>
