@@ -311,7 +311,8 @@
         <div class="container">
           <div class="theme-title">
             <h2>ENDORSEMENTS</h2>
-            <p>I'm proud and humbled to have the support and endorsement of grassroots Republicans across our great state.</p>
+            <p>I'm proud and humbled to have the support and endorsement of
+              grassroots Republicans across our great state.</p>
           </div>
           <!-- /.theme-title -->
           <div class="project-menu">
@@ -320,7 +321,6 @@
               <li class="filter tran3s" data-filter=".web">Elected Officials</li>
               <li class="filter tran3s" data-filter=".photo">Party Leadership</li>
               <li class="filter tran3s" data-filter=".webd">Grassroots Activists</li>
-         
             </ul>
           </div>
           <div class="project-gallery clear-fix">
@@ -893,156 +893,86 @@
                   through the methods listed below!</p>
                 <ul>
                   <li>
-                    <div class="icon tran3s round-border p-color-bg"><i class="fa fa-map-marker"
-
-                        aria-hidden="true"></i></div>
-                    <h6>Address</h6>
-                    <p>Freedom Way, Jersey City, NJ 07305, USA</p>
-                  </li>
-                  <li>
                     <div class="icon tran3s round-border p-color-bg"><i class="fa fa-phone"
 
                         aria-hidden="true"></i></div>
                     <h6>Phone</h6>
-                    <p>+88 01911854378</p>
+                    <p>[Google Voice Number Goes Here]</p>
                   </li>
                   <li>
                     <div class="icon tran3s round-border p-color-bg"><i class="fa fa-envelope-o"
 
                         aria-hidden="true"></i></div>
                     <h6>Email</h6>
-                    <p>backpiper.com@gmail.com</p>
+                    <p>maryn@marynsetsuda.com</p>
                   </li>
                 </ul>
               </div>
-              <!-- /.left-side --> </div>
-            <!-- /.col- --> <br>
-            <br>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-              <div class="send-message">
-                <h2>Send Message</h2>
-                <form action="inc/sendemail.php" class="form-validation" autocomplete="off"
+              ===================================================== Footer
+              ===================================================== --&gt;
+              <footer>
+                <div class="container"> <a href="index.html" class="logo"><img
 
-                  method="post">
-                  <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                      <div class="single-input"> <input placeholder="First Name*"
+                      src="images/logo/logo.png" alt="Logo"></a>
+                  <ul>
+                    <li><a href="#" class="tran3s round-border"><i class="fa fa-facebook"
 
-                          name="Fname" type="text"> </div>
-                      <!-- /.single-input --> </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                      <div class="single-input"> <input placeholder="Last Name*"
+                          aria-hidden="true"></i></a><br>
+                    </li>
+                    <li><a href="#" class="tran3s round-border"><i class="fa fa-twitter"
 
-                          name="Lname" type="text"> </div>
-                      <!-- /.single-input --> </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                      <div class="single-input"> <input placeholder="Your Email*"
+                          aria-hidden="true"></i></a><br>
+                    </li>
+                    <li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin"
 
-                          name="email" type="email"> </div>
-                      <!-- /.single-input --> </div>
-                  </div>
-                  <!-- /.row -->
-                  <div class="single-input"> <input placeholder="Subject" name="sub"
+                          aria-hidden="true"></i></a><br>
+                    </li>
+                  </ul>
+                  <p> Paid for by Elect Maryn Setsuda, Youth Vice Chair. <br>
+                    Copyright © 2018 | All rights reserved | Template by <a href="https://colorlib.com"
 
-                      type="text"> </div>
-                  <!-- /.single-input --> <textarea placeholder="Write Message"
-
-name="message"></textarea> <button class="tran3s p-color-bg">Send Message</button>
-                </form>
-                <!-- Contact Form Validation Markup -->
-                <!-- Contact alert -->
-                <div class="alert-wrapper" id="alert-success">
-                  <div id="success"> <button class="closeAlert"><i class="fa fa-times"
-
-                        aria-hidden="true"></i></button>
-                    <div class="wrapper">
-                      <p>Your message was sent successfully.</p>
-                    </div>
-                  </div>
+                      target="_blank">Colorlib</a></p>
                 </div>
-                <!-- End of .alert_wrapper -->
-                <div class="alert-wrapper" id="alert-error">
-                  <div id="error"> <button class="closeAlert"><i class="fa fa-times"
-
-                        aria-hidden="true"></i></button>
-                    <div class="wrapper">
-                      <p>Sorry!Something Went Wrong.</p>
-                    </div>
-                  </div>
-                </div>
-                <!-- End of .alert_wrapper --> </div>
-              <!-- /.send-message --> </div>
-            <!-- /.container --> </div>
-          <!-- /#contact-section -->
-          <!--
-			=====================================================				Footer			=====================================================			-->
-          <footer>
-            <div class="container"> <a href="index.html" class="logo"><img src="images/logo/logo.png"
-
-                  alt="Logo"></a>
-              <ul>
-                <li><a href="#" class="tran3s round-border"><i class="fa fa-facebook"
-
-                      aria-hidden="true"></i></a><br>
-                </li>
-                <li><a href="#" class="tran3s round-border"><i class="fa fa-twitter"
-
-                      aria-hidden="true"></i></a><br>
-                </li>
-                <li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin"
-
-                      aria-hidden="true"></i></a><br>
-                </li>
-              </ul>
-              <p> Paid for by Elect Maryn Setsuda, Youth Vice Chair. <br>
-                Copyright © 2018 | All rights reserved | Template by <a href="https://colorlib.com"
-
-                  target="_blank">Colorlib</a></p>
-            </div>
-          </footer>
-          <!-- =============================================
+              </footer>
+              <!-- =============================================
 				Loading Transition			============================================== -->
-          
-          <div id="loader-wrapper">
-            <div id="preloader_1"> <span></span> <span></span> <span></span>
-              <span></span> <span></span> </div>
-          </div>
-          <!-- Scroll Top Button --> <button class="scroll-top tran3s p-color-bg">
-          </button>
-          <!-- Js File_________________________________ -->
-          <!-- j Query -->
-          <script type="text/javascript" src="vendor/jquery.2.2.3.min.js"></script>
-          <!-- Bootstrap JS -->
-          <script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
-          <!-- Vendor js _________ -->
-          <!-- revolution -->
-          <script src="vendor/revolution/jquery.themepunch.tools.min.js"></script>
-          <script src="vendor/revolution/jquery.themepunch.revolution.min.js"></script>
-          <script type="text/javascript" src="vendor/revolution/revolution.extension.slideanims.min.js"></script>
-          <script type="text/javascript" src="vendor/revolution/revolution.extension.layeranimation.min.js"></script>
-          <script type="text/javascript" src="vendor/revolution/revolution.extension.navigation.min.js"></script>
-          <script type="text/javascript" src="vendor/revolution/revolution.extension.kenburn.min.js"></script>
-          <script type="text/javascript" src="vendor/revolution/revolution.extension.actions.min.js"></script>
-          <script type="text/javascript" src="vendor/revolution/revolution.extension.video.min.js"></script>
-          <!-- Google map js -->
-          <script async="" defer="defer" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZ8VrXgGZ3QSC-0XubNhuB2uKKCwqVaD0&callback=goMap"
-
-type="text/javascript"></script>
-          <!-- Gmap Helper -->
-          <script src="vendor/gmaps.min.js"></script>
-          <!-- owl.carousel -->
-          <script type="text/javascript" src="vendor/owl-carousel/owl.carousel.min.js"></script>
-          <!-- mixitUp -->
-          <script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
-          <!-- Progress Bar js -->
-          <script type="text/javascript" src="vendor/skills-master/jquery.skills.js"></script>
-          <!-- Validation -->
-          <script type="text/javascript" src="vendor/contact-form/validate.js"></script>
-          <script type="text/javascript" src="vendor/contact-form/jquery.form.js"></script>
-          <!-- Theme js -->
-          <script type="text/javascript" src="js/theme.js"></script>
-          <script type="text/javascript" src="js/map-script.js"></script> </div>
-        <!-- /.main-page-wrapper --> </div>
+              <div id="loader-wrapper">
+                <div id="preloader_1"> <span></span> <span></span> <span></span>
+                  <span></span> <span></span> </div>
+              </div>
+              <!-- Scroll Top Button --> <button class="scroll-top tran3s p-color-bg">
+              </button>
+              <!-- Js File_________________________________ -->
+              <!-- j Query -->
+              <script type="text/javascript" src="vendor/jquery.2.2.3.min.js"></script>
+              <!-- Bootstrap JS -->
+              <script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
+              <!-- Vendor js _________ -->
+              <!-- revolution -->
+              <script src="vendor/revolution/jquery.themepunch.tools.min.js"></script>
+              <script src="vendor/revolution/jquery.themepunch.revolution.min.js"></script>
+              <script type="text/javascript" src="vendor/revolution/revolution.extension.slideanims.min.js"></script>
+              <script type="text/javascript" src="vendor/revolution/revolution.extension.layeranimation.min.js"></script>
+              <script type="text/javascript" src="vendor/revolution/revolution.extension.navigation.min.js"></script>
+              <script type="text/javascript" src="vendor/revolution/revolution.extension.kenburn.min.js"></script>
+              <script type="text/javascript" src="vendor/revolution/revolution.extension.actions.min.js"></script>
+              <script type="text/javascript" src="vendor/revolution/revolution.extension.video.min.js"></script>
+              <!-- owl.carousel -->
+              <script type="text/javascript" src="vendor/owl-carousel/owl.carousel.min.js"></script>
+              <!-- mixitUp -->
+              <script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
+              <!-- Progress Bar js -->
+              <script type="text/javascript" src="vendor/skills-master/jquery.skills.js"></script>
+              <!-- Validation -->
+              <script type="text/javascript" src="vendor/contact-form/validate.js"></script>
+              <script type="text/javascript" src="vendor/contact-form/jquery.form.js"></script>
+              <!-- Theme js -->
+              <script type="text/javascript" src="js/theme.js"></script>
+              <script type="text/javascript" src="js/map-script.js"></script> </div>
+            <!-- /.main-page-wrapper --> </div>
+        </div>
+      </div>
     </div>
+    
   </body>
 </html>
