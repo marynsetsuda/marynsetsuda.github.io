@@ -114,7 +114,11 @@
                   data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
 
                   style="z-index: 6; white-space: nowrap;">
-                  <h6>I’m running because I’ve seen how powerful and passionate the Republican youth can be when they are engaged. I believe if we provide the opportunity for them to be involved in meaningful ways, we can Grow Our Party and better our state.</h6>
+                  <p>I’m running because I’ve seen how powerful and passionate<br>
+                    the Republican youth can be when they are engaged.<br>
+                    I believe if we provide the opportunity for them to be
+                    involved in meaningful ways, we can Grow Our Party and
+                    better our state.</p>
                 </div>
                 <!-- LAYER NR. 3 -->
                 <div class="tp-caption" data-x="['center','center','center','center']"
@@ -295,11 +299,29 @@
       <section id="about-us">
         <div class="container">
           <div class="theme-title">
-            <h2>ABOUT OUR BIZPRO</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type.</p>
+            <h2>ABOUT ME</h2>
+            <p>I was adopted when I was two years old while my mom and brother
+              were on a mission trip and realized that God was calling them to
+              bring me into their family. I grew up in Farmington Hills but also
+              lived in the Grand Rapids area for a few years. I’ve been blessed
+              to attend a variety of schools- Christian, public, Spanish
+              immersion, and early college. I feel that the different
+              environments have given me a unique perspective on many aspects of
+              life. <br><br>
+              I currently attend Oakland Early College where I take both high
+              school and college classes, and am on track to earn an Associate’s
+              Degree upon graduation. I plan to stay in Michigan for my
+              four-year major in Political Science, with a minor in
+              Business/Marketing/Economics. <br><br>
+              In the past year I’ve been honored to be a part of Student
+              Statesmanship Institute, Michigan Excellence in Public Service
+              Series, the Schuette for Governor campaign, and the Michigan
+              Republican Party’s Election Day Operations program. <br><br>
+              I’m passionate about helping others and being a part of the change
+              that I want to see in the world, which is why I’ve gone on
+              multiple international mission trips, volunteered with children
+              who have special needs, and pushed to engage other youth in
+              politics.</p>
           </div>
           <!-- /.theme-title -->
           <div class="row">
