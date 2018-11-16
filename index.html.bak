@@ -7,8 +7,8 @@
     <!-- For Resposive Device -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Maryn Setsuda for Youth Vice Chair</title>
-    <!-- Favicon -->
-    <link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
+    <!-- Reserved for [future] Favicon -->
+ 
     <!-- Main style sheet -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- responsive style sheet -->
@@ -212,14 +212,13 @@
         <div class="container">
           <div class="theme-title">
             <h2>It's Time To Grow Our Party</h2>
-         
           </div>
           <!-- /.theme-title -->
           <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-6">
               <div class="single-service-content">
                 <div class="icon-heading tran3s">
-                  <div class="icon tran3s"><i class="fa fa-paint-brush" aria-hidden="true"></i></div>
+                  <div class="icon tran3s"><i class="fa fa-comments-o" aria-hidden="true"></i></div>
                   <h6><a href="#" class="tran3s">Engage</a></h6>
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur scing elit, sed do
@@ -232,7 +231,7 @@
             <div class="col-lg-4 col-md-4 col-sm-6">
               <div class="single-service-content">
                 <div class="icon-heading tran3s">
-                  <div class="icon tran3s"><i class="fa fa-camera" aria-hidden="true"></i></div>
+                  <div class="icon tran3s"><i class="fa fa-bullhorn" aria-hidden="true"></i></div>
                   <h6><a href="#" class="tran3s">Empower</a></h6>
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur scing elit, sed do
@@ -460,13 +459,14 @@
           <!-- /.project-gallery --> </div>
         <!-- /.container --> </div>
       <!-- /#project-section -->
-
       <!--=====================================================				Blog Section			=====================================================-->
       <div id="blog-section">
         <div class="container">
           <div class="theme-title">
             <h2>NEWS</h2>
-            <p>I hope you'll check back as I travel the state and talk about my vision to Grow Our Party. I look forward to talking to you and learning about your ideas as we approach the convention!</p>
+            <p>I hope you'll check back as I travel the state and talk about my
+              vision to Grow Our Party. I look forward to talking to you and
+              learning about your ideas as we approach the convention!</p>
           </div>
           <!-- /.theme-title -->
           <div class="clear-fix">
